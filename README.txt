@@ -1,0 +1,16 @@
+# Hardware Python-code pentru capturarea imaginii și transmiterea pe server
+
+Scriptul în sine conține aceste funcționalități.
+
+1. Conectarea la cameră;
+2. Capturarea unei imagini (o imagine odată la jumate de oră);
+3. Transmiterea imaginii pe server într-un format specific.
+
+## Previzualizare
+
+![](imgOnFront.png)
+
+## Utilizare 
+
+Se utilizează următoarea comandă în shell, din directoriul respectiv.
+RaspOs: python3 {denumirea_aplicației}.py
