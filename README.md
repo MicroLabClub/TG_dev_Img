@@ -1,6 +1,6 @@
 # Hardware code pentru capturarea imaginii și transmiterea pe server
 
-Scriptul în sine conține aceste funcționalități.
+Scriptul în sine conține aceste funcționalități:
 
 1. Conectarea la cameră;
 2. Capturarea unei imagini (o imagine odată la jumate de oră);
