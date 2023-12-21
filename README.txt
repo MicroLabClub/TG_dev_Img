@@ -8,7 +8,7 @@ Scriptul în sine conține aceste funcționalități.
 
 ## Previzualizare
 
-![](imgOnFront.png)
+![](imgOnWeb.png)
 
 ## Utilizare 
 
