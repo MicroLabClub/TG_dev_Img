@@ -1,4 +1,4 @@
-# Hardware Python-code pentru capturarea imaginii și transmiterea pe server
+# Hardware code pentru capturarea imaginii și transmiterea pe server
 
 Scriptul în sine conține aceste funcționalități.
 
