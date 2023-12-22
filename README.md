@@ -8,7 +8,7 @@ Scriptul în sine conține aceste funcționalități:
 
 ## Previzualizare
 
-![image](https://github.com/MicroLabClub/TG_dev_Img/blob/main/imgOnWeb.png)
+![image](https://github.com/MicroLabClub/TG_Web/blob/main/Demo.png)
 
 ## Utilizare 
 
